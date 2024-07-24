@@ -1,0 +1,30 @@
+Linux
+
+Installation of operating systems such as Linux Flavors such as Redhat enterprise Linux, SuSE,centos. 
+Maintaining Security patches and health checks on server. 
+Troubleshooting booting issue due to lilo.conf file in SuSE.
+Monitoring Linux servers such as Disk space utilization, CPU utilization, Memory utilization
+Configuring the IP address for Ethernet interfaces.
+Performed root password recovery in SMS mode.
+Performed storage migration in SuSE 11.4
+Performed patching on linux server.
+Performed upgrade of server redhat 6.9 to redhat 7.2.
+Creating partitions and file system, using fdisk and lvm
+Configuring Logical volume manager (Lvm) and creating partitions using Lvm.
+Mapping disk to client linux server from OVM.
+Assigning Required Kernel Parameters as per the os level and application level
+Performing os level trouble shooting such as kernel panic error issues, fsck. 
+Configuring servers such Nfs, ftp, samba, sendmail and apache.
+Configuring NFS server and mounted the file systems at clients through Auto mount.
+Basic knowledge on linux cluster and its troubleshooting. 
+Responsible for adding, creating new users, groups and set-up home directories and appropriate access restrictions to software and directories & files using access modes.
+Configuring and Granting sudo Access for users, groups 
+Configuring the hard link and soft link for the files. 
+Routing addition, modification, deletion on Linux servers
+Co-coordinating and working with vendor for Hardware/software issues 
+Configuring and Maintaining the Disk Quotas and ACLs (Access Control Lists) for users.
+
+AIX:
+
+Creating new logical volumes, creating file systems, working with file system changes such as changing mount point, changing file system size (grow or shrink). Excellent trouble shooting skills on Logical volume manager, good hands on LVM high level commands.
+Migration of Logical volumes across PVs in same VG, Copy LVs between VGs.
